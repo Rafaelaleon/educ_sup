@@ -1,7 +1,7 @@
 # Paso1: Redirigete a la carpeta del proyecto
 
 ## Paso2: Cree el ambiente virtual
-python -m venv myenv
+python -m venv myenv (myenv es el nombre del ambiente virtual)
 
 ## Paso 3: Activar el entorno virtual
 source myenv/bin/activate
